@@ -1,5 +1,8 @@
 /*
  * Test the use of the Color method
+ * Name: Henry Czupryna
+ * Email: hczupryna@wisc.edu
+ * CS Account Username: czupryna
  */
 import java.util.*;
 

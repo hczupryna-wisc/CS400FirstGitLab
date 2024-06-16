@@ -1,5 +1,8 @@
 /*
  *	Color class
+ * Name: Henry Czupryna
+ * Email: hczupryna@wisc.edu
+ * CS Account Username: czupryna
  */
 public class Color{
 	private String color;
